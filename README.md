@@ -27,3 +27,6 @@ The plugin contains 3 features we believe our essential for users of Bitbucket:
   
 * For consulting work, please email me directly (g.sylvie.davies@gmail.com).
 
+### Are you really the best commit graph on Bitbucket Server? ###
+
+* Take a look at our analysis for yourself and see if you agree: [bit-booster.com/best.html](http://bit-booster.com/best.html).
