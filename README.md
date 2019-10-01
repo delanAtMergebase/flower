@@ -1,4 +1,4 @@
-# Bit-Booster with Commit Graph and More! - for Atlassian Bitbucket (Server) #
+# PR-Booster! - for Atlassian Bitbucket (Server) #
 
 ## What is this site? ##
 
